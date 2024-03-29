@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Admin dashboard"
+title:  "Admin Dashboard"
 date:   2022-12-14
 categories: jekyll update
 ---
