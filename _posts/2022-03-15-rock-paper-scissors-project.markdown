@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rock paper scissors"
+title:  "Rock Paper Scissors"
 date:   2022-03-15
 categories: jekyll update
 ---
